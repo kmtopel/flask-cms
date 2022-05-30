@@ -1,7 +1,6 @@
 /credentials
 /cache
 /store
-
 /node_modules
 
 # https://github.com/github/gitignore/blob/master/Global/macOS.gitignore
